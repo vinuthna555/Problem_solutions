@@ -7,7 +7,7 @@ import re
 import sys
 
 
-#
+
 # Complete the 'taskOfPairing' function below.
 #
 # The function is expected to return a LONG_INTEGER.
